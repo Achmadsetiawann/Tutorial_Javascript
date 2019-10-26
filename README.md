@@ -3,9 +3,9 @@
 
 <div><h3>Structure React <h3/></div>
 
-import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from 'react'; <br/>
+import logo from './logo.svg'; <br/>
+import './App.css'; <br/>
 
 class App extends Component {
   render(){
