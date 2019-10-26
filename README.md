@@ -1,7 +1,7 @@
 <h2><p align="center"> Tutorial Javascript Syntax </h2>
 <hr/>
 <div><h3>Structure React <h3/></div>
-Module
+Module <br>
 npx create-react-app my-app // this for create react library
 
 
