@@ -1,30 +1,24 @@
 <h2><p align="center"> Tutorial Javascript Syntax </h2>
 <hr/>
 
-
-<h3>Structure React <h3/>
+<div><h3>Structure React <h3/></div>
 <p>
 import React, { Component } from 'react';<br/>
 import logo from './logo.svg';<br/>
 import './App.css';<br/>
-<p/><br/>
-<p>Import Modul pada library yg akan digunakan
 <br/>
-
-<p>
+Import Modul pada library yg akan digunakan
+<br/>
 class App extends Component { <br/>
   render() { <br/>
     return ( <br/>
     ); <br/>
   } <br/>
 } <br/>
-<p/><br/>
-
-<p>
+<br/>
 export default App;
-<p/><br/>
-
-<p>Structure Class pada library React
+<br/>
+Structure Class pada library React<p/>
 
 
 
