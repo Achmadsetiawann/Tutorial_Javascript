@@ -79,6 +79,19 @@ class App extends Component {
 }
 ```
 
+componentDidMount
+Structure componentDidMount() // Use to after state u can place that.
+
+``` javascript
+componentDidMount() {
+
+    fetch('https://jsonplaceholder.typicode.com/users')
+    .then(response => response.json())
+    .then(users => console.table(users));
+    
+  }
+```
+
 
 <hr/>
 <div>
