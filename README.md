@@ -19,8 +19,10 @@ class App extends Component {
   }
   
   render(){ 
-    return( 
+    return(
+    <div className="App"> 
     {this.state.yourstate}
+    </div>
     ); 
   } 
 } 
