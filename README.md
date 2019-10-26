@@ -79,7 +79,7 @@ class App extends Component {
 }
 ```
 
-ComponentDidMount <br>
+<br> ComponentDidMount <br>
 Structure componentDidMount() // Use to after state u can place that.
 <br>
 
