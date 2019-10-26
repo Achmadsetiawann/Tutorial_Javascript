@@ -31,11 +31,11 @@ export default App;
 <hr/>
 <div><h3>Next Tutor<h3/></div>
 
-<p>
-<button onClick={() => this.setState ({ yourstate }) }> <br>
-          Event Onclick yourstate<br>
-</button><br>
-</p>
+``` javascript
+<button onClick={() => this.setState ({ yourstate }) }>
+          Event Onclick yourstate
+</button>
+```
 
 
 
