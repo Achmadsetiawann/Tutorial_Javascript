@@ -3,21 +3,22 @@
 
 <div><h3>Structure React <h3/></div>
 <p>
-import React, { Component } from 'react';<br/>
-import logo from './logo.svg';<br/>
-import './App.css';<br/>
-// Import Modul pada library yg akan digunakan
-<br/>
-class App extends Component { <br/>
-  render() { <br/>
-    return ( <br/>
-    ); <br/>
-  } <br/>
-} <br/>
-<br/>
-export default App;
-<br/>
-// Structure Class pada library React<p/>
+    import React, { Component } from 'react';<br/>
+    import logo from './logo.svg';<br/>
+    import './App.css';<br/>
+
+    <br/>
+    class App extends Component { <br/>
+    render() { <br/>
+        return ( <br/>
+        ); <br/>
+    } <br/>
+    } <br/>
+    <br/>
+
+    export default App;
+    <br/>
+<p/>
 
 
 
