@@ -6,8 +6,7 @@
 import React, { Component } from 'react';<br/>
 import logo from './logo.svg';<br/>
 import './App.css';<br/>
-<br/>
-Import Modul pada library yg akan digunakan
+// Import Modul pada library yg akan digunakan
 <br/>
 class App extends Component { <br/>
   render() { <br/>
@@ -18,7 +17,7 @@ class App extends Component { <br/>
 <br/>
 export default App;
 <br/>
-Structure Class pada library React<p/>
+// Structure Class pada library React<p/>
 
 
 
