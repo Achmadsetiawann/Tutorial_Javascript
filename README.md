@@ -1,6 +1,5 @@
 <h2><p align="center"> Tutorial Javascript Syntax </h2>
 <hr/>
-
 <div><h3>Structure React <h3/></div>
 
 ``` javascript
@@ -30,11 +29,15 @@ class App extends Component {
 export default App;
 ```
 <hr/>
-
 <div><h3>Next Tutor<h3/></div>
+
+<p>
 <button onClick={() => this.setState ({ yourstate }) }> <br>
           Event Onclick yourstate<br>
 </button><br>
+</p>
+
+
 
 
 <hr/>
