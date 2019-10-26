@@ -1,22 +1,23 @@
 <h2><p align="center"> Tutorial Javascript Syntax </h2>
 <hr/>
 
-<h3>Structure React <h3/>
+
+<div><h3>Structure React <h3/></div>
 <p>
-import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from 'react';<br/>
+import logo from './logo.svg';<br/>
+import './App.css';<br/>
 <p/><br/>
 <p>Import Modul pada library yg akan digunakan
 <br/>
 
 <p>
-class App extends Component {
-  render() {
-    return (
-    );
-  }
-}
+class App extends Component { <br/>
+  render() { <br/>
+    return ( <br/>
+    ); <br/>
+  } <br/>
+} <br/>
 <p/><br/>
 
 <p>
