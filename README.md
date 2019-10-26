@@ -30,7 +30,8 @@ export default App;
 ```
 <hr/>
 <div><h3>Next Tutor<h3/></div>
-<div>Event Button with Arrow Syntax</div>
+Event Button with Arrow Syntax
+
 ``` javascript
 <button onClick={() => this.setState ({ yourstate }) }>
           Event Onclick yourstate
