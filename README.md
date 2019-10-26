@@ -2,7 +2,7 @@
 <hr/>
 
 
-<div><h3>Structure React <h3/></div>
+<h3>Structure React <h3/>
 <p>
 import React, { Component } from 'react';<br/>
 import logo from './logo.svg';<br/>
