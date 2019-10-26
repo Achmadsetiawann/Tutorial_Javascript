@@ -32,12 +32,10 @@ export default App;
 <hr/>
 
 <div><h3>Next Tutor<h3/></div>
-``` javascript
+<button onClick={() => this.setState ({ yourstate }) }> <br>
+          Event Onclick yourstate<br>
+</button><br>
 
-<button onClick={() => this.setState ({ yourstate }) }>
-          Event Onclick yourstate
-</button>
-```
 
 <hr/>
 <div>
@@ -50,4 +48,4 @@ export default App;
 
 <!-- <div align ="center">
 <img src="https://github.com/Achmadsetiawann/Android_MyRecyclerView/blob/master/proof.gif" width="200" height="300">
-</div>
+</div> -->
