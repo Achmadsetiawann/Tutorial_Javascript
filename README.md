@@ -34,6 +34,9 @@ export default App;
 <div><h3>Next Tutor<h3/></div>
 ``` javascript
 
+<button onClick={() => this.setState ({ yourstate }) }>
+          Event Onclick yourstate
+</button>
 ```
 
 <hr/>
