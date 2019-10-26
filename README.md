@@ -2,24 +2,20 @@
 <hr/>
 
 <div><h3>Structure React <h3/></div>
-<p>
-    import React, { Component } from 'react';<br/>
-    import logo from './logo.svg';<br/>
-    import './App.css';<br/>
 
-    <br/>
-    class App extends Component { <br/>
-    render() { <br/>
-        return ( <br/>
-        ); <br/>
-    } <br/>
-    } <br/>
-    <br/>
+import React, { Component } from 'react';
+import logo from './logo.svg';
+import './App.css';
 
-    export default App;
-    <br/>
-<p/>
+class App extends Component {
+  render(){
+    return(
+    Your Code
+    );
+  }
+}
 
+export default App;
 
 
 
