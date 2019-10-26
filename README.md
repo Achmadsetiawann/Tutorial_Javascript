@@ -3,20 +3,21 @@
 
 <div><h3>Structure React <h3/></div>
 
-import React, { Component } from 'react'; <br/>
-import logo from './logo.svg'; <br/>
-import './App.css'; <br/>
+``` javascript
+import React, { Component } from 'react';
+import logo from './logo.svg';
+import './App.css';
 
-class App extends Component { <br/>
-  render(){ <br/>
-    return( <br/>
-    Your Code <br/>
-    ); <br/>
-  } <br/>
-} <br/>
+class App extends Component { 
+  render(){ 
+    return( 
+    Your Code 
+    ); 
+  } 
+} 
 
 export default App;
-
+```
 
 
 <hr/>
