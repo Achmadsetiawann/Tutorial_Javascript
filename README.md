@@ -18,7 +18,12 @@ class App extends Component {
 
 export default App;
 ```
+<hr/>
 
+<div><h3>Next Tutor<h3/></div>
+``` javascript
+
+```
 
 <hr/>
 <div>
@@ -32,6 +37,3 @@ export default App;
 <!-- <div align ="center">
 <img src="https://github.com/Achmadsetiawann/Android_MyRecyclerView/blob/master/proof.gif" width="200" height="300">
 </div>
-
-<br>
-<p>Tutorial Andriod Dicoding MyRecyclerView</p> -->
