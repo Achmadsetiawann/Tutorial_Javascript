@@ -30,6 +30,7 @@ export default App;
 ```
 <hr/>
 <div><h3>Next Tutor<h3/></div>
+
 Event Button with Arrow Syntax
 
 ``` javascript
@@ -38,7 +39,41 @@ Event Button with Arrow Syntax
 </button>
 ```
 
+Map Function 
 
+``` javascript
+class App extends Component { 
+  
+  constructor() {
+    super();
+    this.state = {
+      yourcode : [
+        {
+          name : 'Achmad'
+        },
+
+        {
+          name : 'Setiawan'
+        },
+
+        {
+          name : 'Wawan'
+        },
+      ]
+    };
+  }
+  
+  render(){ 
+    return(
+    <div className="App"> 
+    {
+        this.state.yourcode.map( yourcode => <h1> {yourcode.name} </h1>  )
+    }
+    </div>
+    ); 
+  } 
+}
+```
 
 
 <hr/>
