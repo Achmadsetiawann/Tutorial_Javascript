@@ -2,10 +2,7 @@
 <hr/>
 
 <div><h2>LifeCycle GraphQL & Mongoose <h2/></div>
-
-<div>
 <p>LifeCycle Method GQL, typeDefs => type Data, type Query , type Mutation</p>
-</div>
 
 <br> Module Npm <br>
 npm i apollo-server <br>
