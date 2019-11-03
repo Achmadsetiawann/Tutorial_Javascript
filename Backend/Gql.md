@@ -23,8 +23,8 @@ npm i nodemon --save<br>
 const { ApolloServer, gql } = require("apollo-server");
 
 const data = [
-  { task: "Data Array 0", completed: false },
-  { task: "Data Array 1", completed: true }
+  { task: "Wash car", completed: false },
+  { task: "Clean romm", completed: true }
 ];
 
 /* LifeCycle Method GQL, typeDefs => type Data, type Query , type Mutation */
@@ -48,11 +48,18 @@ const typeDefs = gql`
 const resolvers = {
   Query: {
     getData: () => data
+  },
+  Mutation: {
+    addData: (_, { task, completed }) => {
+      const dataDummy = { task, completed };
+      data.push(dataDummy);
+      return dataDummy;
+    }
   }
 };
 
 const server = new ApolloServer({
-  typeDefs: typeDefs,
+  typeDefs,
   resolvers
 });
 
