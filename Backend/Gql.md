@@ -1,20 +1,20 @@
 <h2><p align="center"> Tutorial Backend GraphQL </h2>
 <hr/>
-<div><h3>LifeCycle GraphQL & Mongoose <h3/>
+<div><h2>LifeCycle GraphQL & Mongoose <h2/>
 <p>LifeCycle Method GQL, typeDefs => type Data, type Query , type Mutation</p>
 </div>
 <br> Module Npm <br>
-npm i apollo-server 
-npm i bcrypt
-npm i dotenv
-npm i graphql
-npm i jsonwebtoken
-npm i md5
-npm i mongoose
+npm i apollo-server <br>
+npm i bcrypt<br>
+npm i dotenv<br>
+npm i graphql<br>
+npm i jsonwebtoken<br>
+npm i md5<br>
+npm i mongoose<br>
 
-Devdependencies
-npm i concurrently --save
-npm i nodemon --save
+Devdependencies<br>
+npm i concurrently --save<br>
+npm i nodemon --save<br>
 <br>
 
 <br>
