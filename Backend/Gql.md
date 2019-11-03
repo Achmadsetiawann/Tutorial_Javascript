@@ -1,8 +1,12 @@
 <h2><p align="center"> Tutorial Backend GraphQL </h2>
 <hr/>
-<div><h2>LifeCycle GraphQL & Mongoose <h2/>
+
+<div><h2>LifeCycle GraphQL & Mongoose <h2/></div>
+
+<div>
 <p>LifeCycle Method GQL, typeDefs => type Data, type Query , type Mutation</p>
 </div>
+
 <br> Module Npm <br>
 npm i apollo-server <br>
 npm i bcrypt<br>
@@ -16,7 +20,6 @@ npm i mongoose<br>
 npm i concurrently --save<br>
 npm i nodemon --save<br>
 <br>
-
 <br>
 
 ```javascript
