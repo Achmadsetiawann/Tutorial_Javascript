@@ -2,8 +2,6 @@
 <hr/>
 
 <div><h2>LifeCycle GraphQL & Mongoose <h2/></div>
-<p>LifeCycle Method GQL, typeDefs => type Data, type Query , type Mutation</p>
-
 <br> Module Npm <br>
 npm i apollo-server <br>
 npm i bcrypt<br>
@@ -18,6 +16,8 @@ npm i concurrently --save<br>
 npm i nodemon --save<br>
 <br>
 <br>
+
+<p>LifeCycle Method GQL, typeDefs => type Data, type Query , type Mutation</p>
 
 ```javascript
 const { ApolloServer, gql } = require("apollo-server");
