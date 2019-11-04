@@ -16,7 +16,7 @@ npm i nodemon --save<br>
 <br>
 <br>
 
-<h2>LifeCycle GraphQL & Mongoose <h2/>
+<div><h2>LifeCycle GraphQL & Mongoose <h2/></div>
 
 <p>LifeCycle Method GQL, typeDefs => type Data, type Query , type Mutation</p>
 
