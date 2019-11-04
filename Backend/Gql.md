@@ -70,6 +70,26 @@ server.listen().then(({ url }) => {
 });
 ```
 
+<div>
+    <p>
+    How To Connected Database Moongose Mlab
+    </p>
+</div>
+
+```javascript
+const mongoose = require("mongoose");
+// Create new file variable.env
+MONGO_URL=mongodb://achmadsetiawannn:adfantage123@ds241408.mlab.com:41408/blog_db
+
+
+require("dotenv").config({ path: "variables.env" });
+
+mongoose
+  .connect(process.env.MONGO_URL, { useNewUrlParser: true })
+  .then(() => console.log("Database Has been connected"))
+  .catch(err => console.log(err));
+```
+
 <hr/>
 <div>
     <p>
