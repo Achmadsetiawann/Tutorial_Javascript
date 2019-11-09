@@ -1,8 +1,13 @@
 <h2><p align="center"> Tutorial Javascript Syntax </h2>
 <hr/>
-<div><h3>Structure React <h3/></div>
+<div><h3>Structure Vue <h3/></div>
 <br> Module <br>
-npx create-react-app my-app // this for create react library <br>
+  vue ui <br>
+  {
+    Create => Name your Apps => Presets => Manual <br>
+    Babel, Router, Vuex,
+  }
+<br>
 
 <br>
 
