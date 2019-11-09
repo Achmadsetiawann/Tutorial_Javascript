@@ -5,7 +5,7 @@
   vue ui <br>
   {<br>
     Create => Name your Apps => Presets => Manual <br>
-    Babel, Router, Vuex,
+    Babel, Router, Vuex,<br>
   }
 <br>
 
