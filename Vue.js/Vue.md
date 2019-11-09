@@ -3,7 +3,7 @@
 <div><h3>Structure Vue <h3/></div>
 <br> Module <br>
   vue ui <br>
-  {
+  {<br>
     Create => Name your Apps => Presets => Manual <br>
     Babel, Router, Vuex,
   }
